@@ -1,0 +1,2 @@
+# pare
+share go
